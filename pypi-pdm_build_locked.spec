@@ -7,7 +7,7 @@
 #
 Name     : pypi-pdm_build_locked
 Version  : 0.3.3
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/89/0f/9f7bbceeb1cc50cc287bb86a33d297a0aba2573f500a1dfe7aa33738216b/pdm_build_locked-0.3.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/89/0f/9f7bbceeb1cc50cc287bb86a33d297a0aba2573f500a1dfe7aa33738216b/pdm_build_locked-0.3.3.tar.gz
 Summary  : pdm-build-locked is a pdm plugin to add locked packages as additional optional dependency groups to the distribution metadata
